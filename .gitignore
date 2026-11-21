@@ -1,0 +1,6 @@
+node_modules/
+desktop/www/
+desktop/dist/
+mobile/www/
+mobile/android/
+.DS_Store
